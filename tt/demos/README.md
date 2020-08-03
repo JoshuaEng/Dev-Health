@@ -22,6 +22,10 @@
 - Electron JS
 
 
+## How to try it out
+Unfortunately, as of 2020, recent versions of posenet seem to have made Dev-Health pose tracking extremly slow, leaving the app almost unusable. This app is also no longer being developed, although the team may get together soon and try to rebuild it with an eye more towards scalability (after all, we built it originally in 72 hours). You can still try it out by cloning this repo, running yarn in this folder, and then running npm start, but no promises on performance.
+
+
 Below this is the PoseNet read me:
 
 # PoseNet Demos
